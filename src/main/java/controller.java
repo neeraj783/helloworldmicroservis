@@ -15,7 +15,7 @@ int b=7;
 return a+b;
 }
 @RequestMapping("/multiple")
-    public int multipal(){
+    public int multiple(){
 
         int a=5;
         int b=6;
